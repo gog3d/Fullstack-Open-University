@@ -5,7 +5,8 @@ Let's finish the code for rendering course contents from exercises 1.1 - 1.5. Yo
 Note that if you copy a project from one place to another, you might have to delete the node_modules directory and install the dependencies again with the command npm install before you can start the application. Generally, it's not recommended that you copy a project's whole contents and/or add the node_modules directory to the version control system.
 
 Let's change the App component like so:
-```
+
+```js
 const App = () => {
   const course = {
     id: 1,
