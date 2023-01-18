@@ -4,7 +4,7 @@ Let's move forward to using objects in our application.
 
 Modify the variable definitions of the App component as follows and also refactor the application so that it still works:
 
-```
+```js
 const App = () => {
   const course = 'Half Stack application development'
   const part1 = {

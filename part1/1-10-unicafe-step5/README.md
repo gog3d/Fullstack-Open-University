@@ -2,7 +2,7 @@
 
 Let's continue refactoring the application. Extract the following two components:
 
-```
+```js
 Button for defining the buttons used for submitting feedback
 StatisticLine for displaying a single statistic, e.g. the average score.
 

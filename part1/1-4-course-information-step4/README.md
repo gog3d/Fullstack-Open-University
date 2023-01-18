@@ -2,7 +2,7 @@
 
 And then place the objects into an array. Modify the variable definitions of App into the following form and modify the other parts of the application accordingly:
 
-```
+```js
 const App = () => {
   const course = 'Half Stack application development'
   const parts = [
@@ -33,7 +33,7 @@ NB at this point you can assume that there are always three items, so there is n
 
 However, do not pass different objects as separate props from the App component to the components Content and Total. Instead, pass them directly as an array:
 
-```
+```js
 const App = () => {
   // const definitions
 

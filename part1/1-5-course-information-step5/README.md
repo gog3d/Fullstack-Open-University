@@ -2,7 +2,7 @@
 
 Let's take the changes one step further. Change the course and its parts into a single JavaScript object. Fix everything that breaks.
 
-```
+```js
 const App = () => {
   const course = {
     name: 'Half Stack application development',

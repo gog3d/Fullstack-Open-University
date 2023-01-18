@@ -2,7 +2,8 @@
 
 Let's extend our application to allow for an arbitrary number of courses:
 
-```
+```js
+
 const App = () => {
   const courses = [
     {

@@ -12,7 +12,7 @@ import App from './App'
 ReactDOM.createRoot(document.getElementById('root')).render(<App />)
 
 and App.js to match the following
-```
+```js
 const App = () => {
   const course = 'Half Stack application development'
   const part1 = 'Fundamentals of React'

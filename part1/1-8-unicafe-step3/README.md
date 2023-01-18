@@ -4,7 +4,7 @@ Refactor your application so that displaying the statistics is extracted into it
 
 Remember that components should not be defined inside other components:
 
-```
+```js
 // a proper place to define a component
 const Statistics = (props) => {
   // ...
